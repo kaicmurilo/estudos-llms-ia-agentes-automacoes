@@ -1,0 +1,7 @@
+Nome: Kaic Murilo Nunes
+Cpf: 00000000000
+data nascimento: 20-02-1196
+
+
+Meu nome é kaic, sou desenvolvedor de software, tenho um foco em backend, atuo também em front. Atualmente tenho estudado bastante sobre agentes de IA, LLMS, Index, RAG e OCR.
+Gosto muito de tomar café, tomo de 3 a 4 copos por dia. 
